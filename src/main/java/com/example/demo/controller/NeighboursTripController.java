@@ -16,7 +16,7 @@ import com.example.demo.model.dto.TripCalculationResultDTO;
 import com.example.demo.service.NeighboursTripService;
 
 /**
- * Rest controller for neighbour countries.
+ * Rest controller for neighbours trip.
  */
 @RestController
 @Validated

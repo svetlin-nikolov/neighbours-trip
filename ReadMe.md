@@ -11,6 +11,7 @@ where:
 
 Complete example:
 http://localhost:8080/neighbours-trip/calculate/BG?totalBudget=1200&countryBudget=100&currency=EUR
+
 4. Log in with Google account for the result
 ### Implementation notes
 For this example the application supports only one starting country(BG) and one currency(EUR) also the neighbour countries and exchange rates are mock data.
